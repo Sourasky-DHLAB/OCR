@@ -8,7 +8,7 @@
 <p align="center"><img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Resources/colab.png" /></p>
 <h2 id="סוגי-מחברות-במאגר">סוגי מחברות במאגר</h2>
 <p>מאגר (Repository) זה מכיל מחברות לשימושים שונים:</p>
-<div dir="rtl">1. <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whisper_Audio.ipynb">Whisper_Audio.ipynb</a>: מחברת לתמלול קבצי אודיו או וידאו (ישירות - ללא צורך בחילוץ שכבת האודיו). למתחילים מומלץ להתחיל עם מחברת זו.<br />2. <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whisper_Video.ipynb">Whisper_Video.ipynb</a>: מחברת זו מאפשרת לתמלל קבצי וידאו תוך חילוץ שכבת האודיו. לאחר מכן ניתן להשוות את איכות הפלט אל מול המקור.<br />3. <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whisper_from_Youtube.ipynb">Whisper_from_Youtube.ipynb</a>: מחברת זו מאפשרת להוריד ולתמלל סרטונים מ-Yotube.<br />4. <a href="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Colab/Whisper_Speaker_Diarization.ipynb">Whisper_Speaker_Diarization.ipynb</a>: מחברת לתמלול ראיונות וזיהוי דוברים.
+<div dir="rtl">1. <a href="https://github.com/Sourasky-DHLAB/OCR/blob/main/OCR_basics.ipynb">OCR_basics.ipynb</a>: מחברת המכילה מבוא תיאורטי לזיהוי תווים אופטי, מלווה בתרגול מעשי של OCR על קובץ תמונה בעברית מארכיון המדינה עם ספריית Pytesseract.&nbsp;<br />2. <a href="https://github.com/Sourasky-DHLAB/OCR/blob/main/Colab/OCR_pdf_to_pdf.ipynb">OCR_pdf_to_pdf.ipynb</a>: מחברת זו מאפשרת להריץ זיהוי תווים אופטי על קבצי PDF באמצעות ספריית <a href="https://github.com/ocrmypdf/OCRmyPDF">OCRmyPDF</a>.<br /><br />
 <h2 id="דוגמה-מתוך-המחברות">דוגמה מתוך המחברות</h2>
 <p align="center"><img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Resources/screenshot.png" /></p>
 </div>
