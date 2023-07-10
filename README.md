@@ -10,6 +10,6 @@
 <p>מאגר (Repository) זה מכיל מחברות לשימושים שונים:</p>
 <div dir="rtl">1. <a href="https://github.com/Sourasky-DHLAB/OCR/blob/main/OCR_basics.ipynb">OCR_basics.ipynb</a>: מחברת המכילה מבוא תיאורטי לזיהוי תווים אופטי, מלווה בתרגול מעשי של OCR על קובץ תמונה בעברית מארכיון המדינה עם ספריית Pytesseract.&nbsp;<br />2. <a href="https://github.com/Sourasky-DHLAB/OCR/blob/main/Colab/OCR_pdf_to_pdf.ipynb">OCR_pdf_to_pdf.ipynb</a>: מחברת זו מאפשרת להריץ זיהוי תווים אופטי על קבצי PDF באמצעות ספריית <a href="https://github.com/ocrmypdf/OCRmyPDF">OCRmyPDF</a>.<br /><br />
 <h2 id="דוגמה-מתוך-המחברות">דוגמה מתוך המחברות</h2>
-<p align="center"><img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Resources/screenshot.png" /></p>
+<p align="center"><img src="https://github.com/Sourasky-DHLAB/OCR/blob/main/Resources/OCR_exm.png" /></p>
 </div>
 </div>
